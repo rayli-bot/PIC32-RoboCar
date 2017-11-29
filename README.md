@@ -7,7 +7,7 @@ Robot Car Implementation Sample
 - Using the WiFi geolocation data and communication between cars to do several specified action like pass the ball, catch the ball and shoot the ball
 Details :
 
-### Details :
+### Details
 - Use C to implement the PIC32 chip
 - Use Ring Buffer and AT-CMD to send / receive / setup WiFi-Module by C
 - Controlling PWM outputs by inferred sensors.
